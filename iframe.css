@@ -1,0 +1,74 @@
+iframe {
+    display:block;
+  }
+
+  .gluggi {
+      width:100%;
+      height:10.5rem; 
+      margin: auto;
+    }
+
+.stutt-vídeó {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+  
+  @media screen and (min-width: 25rem) {
+      .gluggi {
+        height:13rem; 
+      }
+   }
+  
+  @media screen and (min-width: 30rem) {
+      .gluggi { 
+       height:15.75rem;
+     }
+   }
+  
+  @media screen and (min-width: 37.5rem) {
+      .gluggi {
+        height:19.7rem;
+      }
+   }
+  
+   @media screen and (min-width:48rem){
+    .gluggi {
+      height:24.6rem; 
+    }
+  }
+  @media screen and (min-width:60rem){
+    .gluggi {
+      height:33rem; 
+    }
+  }
+  @media screen and (min-width: 80rem) {
+      .gluggi {  
+        height:44rem;
+      }
+  } 
+    @media screen and (min-width: 100rem) {
+      .gluggi {  
+        height:52.3rem; 
+      }
+  } 
+  
+  /* google kort */
+  
+  @media screen and (min-width: 20rem) {
+      .kort {
+       width:100%;    
+       height:15.75rem; 
+     }
+   }
+  
+  @media screen and (min-width: 37.5rem) {
+      .kort {
+        height:19.7rem; 
+      }
+   }
+  
+   @media screen and (min-width:48rem){
+    .kort {
+      height:28.2rem; 
+    }
+  }
